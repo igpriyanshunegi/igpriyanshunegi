@@ -23,13 +23,11 @@ Hi, I'm Priyanshu Negi, a Final Year B.Tech student passionate about technology,
 
 ## 🟢 Open to Work
 
-| 🚀 **Targeting** | Data Analyst • BI Developer • Business Intelligence & Strategy |
+| 🚀 **Targeting** | Data Analyst • MIS Executive • Software Tester|
 | :--- | :--- |
-| 🛠️ **Core Skills** | Python • SQL • Power BI • Tableau • Excel |
-| 📍 **Location** | Remote • Hybrid • Open to Relocation |
-| 🎓 **Education** | B.Tech Information Technology |
-| ⚡ **Status** | **[Available Immediately]** |
-| 📫 **Connect** | <a href="mailto:priyanshun898@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="mailto:priyanshun898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/igpriyanshunegi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="https://www.linkedin.com/in/igpriyanshunegi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
+| **Core Skills** | Python • SQL • Power BI • Excel • Selenium • Manuwal Testing |
+| **Education** | B.Tech Information Technology |
+| **Connect** | <a href="mailto:priyanshun898@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="mailto:priyanshun898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/igpriyanshunegi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="https://www.linkedin.com/in/igpriyanshunegi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
 
 ---
 
