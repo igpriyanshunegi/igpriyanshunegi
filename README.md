@@ -32,6 +32,199 @@ Hi, I'm Priyanshu Negi, a Final Year B.Tech student passionate about technology,
 
 ---
 
+# 🗂️ Projects
+
+## 🧪 QA & Manual Testing
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Manual Testing – Demo Web Shop</h3>
+      <p>Manual functional testing project for Demo Web Shop e-commerce app, covering 6 modules, 30 test cases, 10 scenarios, and 8 documented bugs with severity and priority classification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Independent%20Project-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/Manual-Testing-Demo-Web-Shop">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://drive.google.com/drive/folders/1IRReac1szMA4o1hR52Q_wr0z2Ri70X00?usp=sharing">
+          <img src="https://img.shields.io/badge/Google%20Drive-Artifacts-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 HelloGrowth CRM – Internship Testing Assignment</h3>
+      <p>Tested the HelloGrowth CRM platform as an internship assignment. Executed 35 test cases, identified 10 bugs, and reported 7 failed test cases with a detailed QA report.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Internship%20Assignment-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://drive.google.com/drive/folders/16p71nRDGV8iw2AEY-YSNTjUoNEo_372Q">
+          <img src="https://img.shields.io/badge/Google%20Drive-Report-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Data Analytics
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Customer Trends Data Analysis</h3>
+      <p>Deep dive into the shopping behavior of 3,900 customers across the United States — uncovering purchasing drivers, demographic spending patterns, and the impact of discounts, subscriptions, and seasonal trends on retail activity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/customer-trends-data-analysis">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://mavenshowcase.com/project/56642">
+          <img src="https://img.shields.io/badge/Maven-Dashboard-FF6B35?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏬 SuperStore Sales Analysis</h3>
+      <p>End-to-end retail sales analytics project leveraging Python and Power BI to uncover customer purchasing patterns, sales performance, profitability trends, and regional insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/SuperStore-Sales">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://mavenshowcase.com/project/56651">
+          <img src="https://img.shields.io/badge/Maven-Dashboard-FF6B35?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Zomato Restaurant Analysis</h3>
+      <p>Exploratory data analysis on Bengaluru's Zomato restaurant dataset — uncovering insights on ratings, pricing, online ordering trends, and customer engagement across multiple restaurant types using Python's data science stack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/zomato_data_analysis">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Global Cybersecurity Threats Analysis</h3>
+      <p>Decade-long EDA on 3,000 global cybersecurity incidents (2015–2024). Uncovers attack trends, targeted industries, financial impacts, and threat sources using Python, Pandas, Matplotlib, and Seaborn.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/Global_Cybersecurity_Threats_Analysis">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔐 Cybersecurity & Machine Learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ PhishGuard – Phishing URL Detection</h3>
+      <p>A full-stack ML-powered web app where users can submit any URL and the platform uses a trained model to classify it as legitimate or phishing. Frontend deployed on Vercel, backend on Render. Model trained on a Python-generated artificial dataset.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel"/>
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://phishguard-frontend-eta.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-PhishGuard-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p><em>🔒 Frontend & Backend repos are private</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 Network Attack Detection using CTGAN</h3>
+      <p>Uses CTGAN to generate realistic synthetic attack logs and trains Random Forest, XGBoost, LightGBM, and SVM models for anomaly detection. Users enter network parameters and the system classifies traffic as normal or suspicious. Full-stack app with Streamlit frontend deployed on Render.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-Deployed-46E3B7?style=flat-square&logo=render"/>
+        <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/network-attack-detection-using-ctgan">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://network-attack-detection-system.onrender.com/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Detection%20System-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🖥️ IT Support & Automation
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Auto Backup & File Organizer</h3>
+      <p>A Python automation tool that organizes files into categorized folders by type and creates timestamped backups. Features dry-run mode, duplicate-safe handling, and action logging — reducing manual file management effort for IT support workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Type-IT%20Automation-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/auto-backup-file-organizer">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 System Health Check Tool</h3>
+      <p>A Python CLI tool that monitors system health in real time — tracking CPU, RAM, disk, and network — with automated alerts and timestamped report generation for IT support use.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Type-IT%20Monitoring-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://github.com/igpriyanshunegi/system-health-check-tool">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=igpriyanshunegi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=igpriyanshunegi&theme=merko&hide_border=false)<br/>
