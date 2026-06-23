@@ -230,8 +230,6 @@ Hi, I'm Priyanshu Negi, a Final Year B.Tech student passionate about technology,
 ![](https://streak-stats.demolab.com/?user=igpriyanshunegi&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=igpriyanshunegi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=igpriyanshunegi&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
