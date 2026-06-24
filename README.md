@@ -12,6 +12,7 @@
 
 
 # 💫 About Me:
+
 Hi, I'm Priyanshu Negi, a Final Year B.Tech student passionate about technology, problem-solving, and continuous learning.<br><br>I have a strong interest in Software Testing, Data Analytics, Cybersecurity, and Web Development. I enjoy building practical projects that solve real-world problems and help me strengthen my technical skills.<br><br>Currently, I am working on projects such as PhishGuard, a phishing URL detection system using Python and Machine Learning, and a Collaborative Document Editor built with Next.js, Liveblocks, TipTap, and Convex.<br><br>My technical skills include Python, SQL, React, Next.js, Manual Testing, Git, GitHub, and MySQL. I am continuously improving my knowledge of testing methodologies, data analysis, and modern web technologies.<br><br>I am actively seeking opportunities as a QA Engineer, Software Tester, Data Analyst, or IT Support Associate, where I can contribute, learn from experienced professionals, and grow my career in the technology industry.<br><br>"Learning, Building, and Improving Every Day." 🚀
 
 
